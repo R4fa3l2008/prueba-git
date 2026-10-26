@@ -2,7 +2,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hola Git y GitHub");
         System.out.println("Mi segundo cambio con Git xd");
-        //xd
-        //xd 2
+        System.out.println("67");
     }
 }
